@@ -5,27 +5,32 @@ Google provides several recommendations for optimizing images for the web to ens
 
 ## Image File Types
 
-1. **WebP**:
+1. **AVIF**:
    - **Recommended by Google** as it provides superior compression and quality characteristics compared to older formats like JPEG and PNG.
    - Supports both lossless and lossy compression.
    - Offers transparency (alpha channel) and animation.
 
-2. **JPEG**:
+2. **WebP**:
+   - **Recommended by Google** as it provides superior compression and quality characteristics compared to older formats like JPEG and PNG.
+   - Supports both lossless and lossy compression.
+   - Offers transparency (alpha channel) and animation.
+
+3. **JPEG**:
    - Ideal for photographs and images with complex color gradients.
    - Supports lossy compression, which can significantly reduce file size.
    - Recommended to use progressive JPEGs for a better loading experience.
 
-3. **PNG**:
+4. **PNG**:
    - Best for images that require transparency or have text, logos, or simple graphics.
    - Supports lossless compression, maintaining high image quality.
    - Can be larger in size compared to JPEG and WebP.
 
-4. **SVG**:
+5. **SVG**:
    - Ideal for vector graphics, icons, logos, and illustrations.
    - Scalable without loss of quality.
    - Lightweight and can be manipulated with CSS and JavaScript.
 
-5. **GIF**:
+6. **GIF**:
    - Suitable for simple animations.
    - Limited to 256 colors, making it less suitable for photographs.
 
